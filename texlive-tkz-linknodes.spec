@@ -56,3 +56,16 @@ the tkz-doc bundle.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0c-2
++ Revision: 756996
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.0c-1
++ Revision: 719767
+- texlive-tkz-linknodes
+- texlive-tkz-linknodes
+- texlive-tkz-linknodes
+
