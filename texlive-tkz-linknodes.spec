@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.0c
 Name:		texlive-tkz-linknodes
-Version:	1.0c
-Release:	11
+Version:	1.1d
+Release:	1
 Summary:	Link nodes in mathematical environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-linknodes
