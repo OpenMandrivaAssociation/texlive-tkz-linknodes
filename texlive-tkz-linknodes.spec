@@ -9,7 +9,7 @@ Version:	1.1d
 Release:	2
 Summary:	Link nodes in mathematical environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-linknodes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-linknodes
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-linknodes.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-linknodes.doc.tar.xz
